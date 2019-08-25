@@ -1,0 +1,13 @@
+.App {
+ display: grid; 
+  
+
+}
+#names{
+  color:blue;
+}
+
+img{
+  width: 50px;
+  margin: 50px;
+}

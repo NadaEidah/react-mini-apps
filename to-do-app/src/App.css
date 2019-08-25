@@ -1,0 +1,46 @@
+.App {
+  text-align: center;
+}
+body{
+  background-color: #C7D3EF;
+}
+button{
+  background-color: white;
+  
+}
+
+#heder{
+  border-style: solid;
+  border-color: green;
+  width: 210px;
+  margin: 0 auto;
+  margin-top:20px;
+  margin-bottom: 50px;
+}
+
+#btnInput{
+  border-style: solid;
+  border-color: pink;
+  width: 180px;
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
+
+li{
+  list-style-type: none;
+  border-style: solid;
+  border-color: black;
+  padding-left: 50px;
+  width: 150px;
+  margin: 0 auto;
+  margin-bottom: 5px;
+ 
+}
+#sli{
+  border-color: red;
+}
+
+
+
+
+
